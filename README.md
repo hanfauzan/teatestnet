@@ -1,0 +1,2 @@
+# teatestnet
+TEA INCENTIVIZED TESTNET
